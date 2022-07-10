@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Blog CMS</title>
+        <title>Home | Blog CMS</title>
    </head>
     <body class="antialiased">
-        <h1>Hello</h1>
+        <h1>Home</h1>
     </body>
 </html>
